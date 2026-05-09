@@ -1,5 +1,5 @@
 ## Fahad Bin Qaiser 
-SaaS landing pages Developer | React & Ruby on Rails
+SaaS landing pages Developer | Next JS | React JS | TypeScript | Ruby On Rails | Ruby 
 
 ---
 
