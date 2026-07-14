@@ -1,12 +1,12 @@
 ## Fahad Bin Qaiser 
-SaaS landing pages Developer | Next JS | React JS | TypeScript | Ruby On Rails | Ruby 
+SaaS landing page developer | Next JS | React JS | TypeScript | Ruby On Rails | Ruby | GSAP | Lenis JS | Framer Motion |  
 
 ---
 
 I began my coding journey on 21 May 2023.
 
-I build interfaces that don't compromise on design.  
-Building full-stack web apps with Ruby on Rails (1 year of experience) 
+I build landing pages that help B2B SaaS Founders get more demos. 
+Building full-stack web apps with Ruby on Rails and Next JS (1 years of experience) 
 
 ---
 
